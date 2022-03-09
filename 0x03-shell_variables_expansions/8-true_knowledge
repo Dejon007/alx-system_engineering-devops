@@ -1,2 +1,2 @@
-[A[B#!/bin/bash
-export TRUEKNOWLEDGE=1209
+#!/bin/bash
+echo $((128 + $TRUEKNOWLEDGE))
