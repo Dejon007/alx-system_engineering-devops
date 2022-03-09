@@ -1,2 +1,2 @@
-#!/bin/bash
-printf "%.2f" $NUM
+[A[A[A[B[B[B#!/bin/bash
+printf '%.2f\n' $NUM
