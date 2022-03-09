@@ -1,3 +1,2 @@
-#!/bin/bash
-echo $((128 * $TRUEKNOWLEDGE))
-[A[C[C[C[C[C[C[C[C[C[C[C[C[+
+[A[B#!/bin/bash
+export TRUEKNOWLEDGE=1209
